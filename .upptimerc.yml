@@ -1,23 +1,180 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+# global vars
+owner: RKTowse # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
+
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
+  - name: OFI
+    url: https://www.ofi.ca
+  - name: CEOTR
+    url: https://ceotr.ocean.dal.ca
+  - name: Rundeck
+    url: https://rundeck.ceotr.ca/menu/home
+  - name: Ocean Gliders Canada home 
+    url: https://dev.oceangliderscanada.ca/ 
+  - name: CEOTR Dev home 
+    url: https://dev.ceotr.ca/ 
+  - name: conda_channel 
+    url: https://dev.ceotr.ca/condapkg/ 
+  - name: Sensor tracker Log In 
+    url: https://dev.ceotr.ca/sensor_tracker/ 
+  - name: CEOTR Dev Ceotr Home 
+    url: https://dev.ceotr.ca/ceotr_home/ 
+  - name: CEOTR Home Codar
+    url: https://dev.ceotr.ca/codar 
+  - name: CEOTR Home site loads from stylegude
+    url: https://dev.ceotr.ca/styleguide 
+  - name: CEOTR Home site loads
+    url: https://ceotrdev.ocean.dal.ca/ 
+  - name: CEOTR Home site loads from condapkg
+    url: https://ceotrdev.ocean.dal.ca/condapkg 
+  - name: Log In site loads from sensor_tracker
+    url: https://ceotrdev.ocean.dal.ca/sensor_tracker 
+  - name: CEOTR Home site loads from ceotr_home
+    url: https://ceotrdev.ocean.dal.ca/ceotr_home 
+  - name: CEOTR Home site loads from codar
+    url: https://ceotrdev.ocean.dal.ca/codar 
+  - name: CEOTR Home site loads from styleguide
+    url: https://ceotrdev.ocean.dal.ca/styleguide 
+  - name: OGEN Home
+    url: https://dev.oceangraduate.com 
+  - name: OGEN Log In 
+    url: https://dev.oceangraduate.com/wp-login.php 
+  - name: OGEN Home
+    url: https://dev.ogen.ceotr.ca
+  - name: OGEN Log In 
+    url: https://dev.ogen.ceotr.ca/wp-login.php 
+  - name: IMBeR Data Hub 
+    url: https://dev.imber.ceotr.ca 
+  - name: Ocean Gliders Canada Home 
+    url: https://dev.oceangliderscanada.ca 
+  - name: STG Home Page 
+    url: https://stg.oceangliderscanada.ca 
+  - name: CEOTR STG Home Page loads
+    url: https://ceotrstg.ocean.dal.ca 
+  - name: Bedford Basin Time Series STG 
+    url: https://ceotrstg.ocean.dal.ca/bbasin 
+  - name: STG Gliders Page loads from /gliders
+    url: https://ceotrstg.ocean.dal.ca/gliders 
+  - name: STG Sensor Tracker login 
+    url: https://ceotrstg.ocean.dal.ca/sensor_tracker 
+  - name: CEOTR Home Page loads
+    url: https://stg.ceotr.ca CEOTR Home
+  - name: stg Bedford Basin Time Series
+    url: https://stg.ceotr.ca/bbasin  
+  - name: STG Gliders Page 
+    url: https://stg.ceotr.ca/gliders
+  - name: Sensor Tracker login
+    url: https://stg.ceotr.ca/sensor_tracker 
+  - name: STG Sensor Tracker Home Page loads
+    url: https://stg.nfsi.ceotr.ca 
+  - name: Ocean Gliders Canada  Home Page loads
+    url: https://www.oceangliderscanada.ca 
+  - name: Prod Ocean Gliders Canada  Home Page loads
+    url: https://prod.oceangliderscanada.ca 
+  - name: The Ocean Graduate Excellence Network Home 
+    url: https://prod.oceangraduate.com 
+  - name: The Ocean Graduate Excellence Network Home 
+    url: https://oceangraduate.com 
+  - name: The OGEN Home Page loads
+    url: https://ogen.ceotr.ca 
+  - name: CEOTR Prod Home Page loads
+    url: https://prod.ceotr.ca 
+  - name: Prod Sensor tracker login
+    url: https://prod.ceotr.ca/sensor_tracker 
+  - name: Prod Maintenance Page
+    url: https://prod.ceotr.ca/maintenance 
+  - name: Prod Gliders Home
+    url: https://prod.ceotr.ca/gliders 
+  - name: Prod Bedford Basin Times Series Home
+    url: https://prod.ceotr.ca/bbasin 
+  - name: CEOTR ERDDAP Page 
+    url: https://prod.ceotr.ca/erddap 
+  - name: CEOTR Home Page 
+    url: https://www.ceotr.ca 
+  - name: Sensor tracker login 
+    url: https://www.ceotr.ca/sensor_tracker 
+  - name: CEOTR Maintenance 
+    url: https://www.ceotr.ca/maintenance =
+  - name: CEOTR Gliders 
+    url: https://www.ceotr.ca/gliders 
+  - name: CEOTR Bedford Basin Times Series 
+    url: https://www.ceotr.ca/bbasin 
+  - name: CEOTR ERDDAP Page loads
+    url: https://www.ceotr.ca/erddap 
+  - name: CEOTR Home 
+    url: https://ceotr.ca 
+  - name: CEOTR OCEAN Maintenance
+    url: https://ceotr.ocean.dal.ca/maintenance 
+  - name: CEOTR OCEAN Gliders
+    url: https://ceotr.ocean.dal.ca/gliders 
+  - name: HTTPS Bedford Basin Times Series Page loads
+    url: https://ceotr.ocean.dal.ca/bbasin 
+  - name: HTTPS ERDDAP Page loads
+    url: https://ceotr.ocean.dal.ca/erddap
+  - name: HTTPS CEOTR Home Page loads
+    url: https://cproof.ocean.dal.ca 
+  - name: HTTPS Sensor tracker login Page loads
+    url: https://cproof.ocean.dal.ca/sensor_tracker 
+  - name: CEOTR Home Page loads
+    url: https://cproof.ceotr.ca 
+  - name: HTTPS Sensor tracker login Page loads
+    url: https://cproof.ceotr.ca/sensor_tracker 
+  - name: CEOTR Home Page loads
+    url: https://dfocogg.ceotr.ca 
+  - name: HTTPS Sensor tracker login Page loads
+    url: https://dfocogg.ceotr.ca/sensor_tracker 
+  - name: Test HTTPS CEOTR Home Page loads
+    url: https://dfocogg.ocean.dal.ca 
+  - name: HTTPS Sensor tracker login Page loads
+    url: https://dfocogg.ocean.dal.ca/sensor_tracker 
+  - name: Home Page loads
+    url: https://dfo.oppenav.ceotr.ca 
+  - name: NFSI Home Page loads
+    url: https://nfsi.ceotr.ca 
+  - name: NFSI Home Page loads
+    url: https://www.nfsi.ca 
+  - name: Data Home Page loads
+    url: https://data.ceotr.ca
+  - name: Data Temp Index Page loads
+    url: https://data.ceotr.ca/temp 
+  - name: Data Springbloom Index Page loads
+    url: https://data.ceotr.ca/springbloom
+  - name: CEOTR JIRA
+    url: https://ceotr.atlassian.net/jira
+  - name: CEOTR Confluence
+    url: https://confluence.ceotr.ca
+  - name: WIKI oceangliderscanada.ca
+    url: https://wiki.oceangliderscanada.ca 
+  - name: npm. NPM Home Page loads
+    url: https://npm.ceotr.ca 
+  - name: lychee. Albums Page loads
+    url: https://lychee.ceotr.ca
+  - name: piwigo. CEOTR Gallery Page loads
+    url: https://piwigo.ceotr.ca
+  - name: piwigo. CEOTR Gallery Page loads
+    url: https://piwigo.ceotr.ca/piwigo 
+  - name: Imber Info Home Page loads
+    url: https://imber.ceotr.ca 
+  - name: Imber Info Home Page loads
+    url: https://imber.ceotr.ca 
+  - name: Imber Info Home Page loads
+    url: https://imber.info 
+  - name: Imber Info Home Page loads
+    url: https://www.imber.info 
+  - name: Imber Info Home Page loads
+    url: https://imber.ocean.dal.ca 
+  - name: Old Imber Info Home Page loads
+    url: https://oldimber.ceotr.ca
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  # cname: demo.upptime.js.org
+  baseUrl: /upptime
+  # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
