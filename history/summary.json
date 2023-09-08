@@ -430,7 +430,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-08": 1314,
+      "2023-09-08": 1321,
       "2023-09-07": 641
     }
   },
@@ -451,7 +451,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-08": 1314,
+      "2023-09-08": 1321,
       "2023-09-07": 641
     }
   },
@@ -472,7 +472,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-08": 1314,
+      "2023-09-08": 1321,
       "2023-09-07": 640
     }
   },
@@ -493,7 +493,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-08": 1314,
+      "2023-09-08": 1321,
       "2023-09-07": 640
     }
   },
@@ -503,18 +503,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ceotrstg.ocean.dal.ca.ico",
     "slug": "stg-sensor-tracker-login",
     "status": "down",
-    "uptime": "0.02%",
+    "uptime": "0.03%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-08": 1314,
+      "2023-09-08": 1321,
       "2023-09-07": 639
     }
   },
@@ -529,11 +529,11 @@
     "uptimeWeek": "99.88%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.88%",
-    "time": 237,
-    "timeDay": 227,
-    "timeWeek": 237,
-    "timeMonth": 237,
-    "timeYear": 237,
+    "time": 238,
+    "timeDay": 228,
+    "timeWeek": 238,
+    "timeMonth": 238,
+    "timeYear": 238,
     "dailyMinutesDown": {
       "2023-09-08": 2
     }
@@ -544,18 +544,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/stg.ceotr.ca.ico",
     "slug": "stg-bedford-basin-time-series",
     "status": "down",
-    "uptime": "0.03%",
+    "uptime": "0.02%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-08": 1314,
+      "2023-09-08": 1321,
       "2023-09-07": 639
     }
   },
@@ -576,7 +576,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-08": 1314,
+      "2023-09-08": 1321,
       "2023-09-07": 638
     }
   },
@@ -586,11 +586,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/stg.ceotr.ca.ico",
     "slug": "sensor-tracker-login",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.96%",
     "uptimeDay": "99.95%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 143,
     "timeDay": 137,
     "timeWeek": 143,
@@ -617,7 +617,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-08": 1314,
+      "2023-09-08": 1321,
       "2023-09-07": 637
     }
   },
@@ -843,11 +843,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ceotr.ca.ico",
     "slug": "sensor-tracker-login",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.96%",
     "uptimeDay": "99.95%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 143,
     "timeDay": 137,
     "timeWeek": 143,
@@ -874,7 +874,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-08": 1314,
+      "2023-09-08": 1322,
       "2023-09-07": 637
     }
   },
@@ -1069,11 +1069,11 @@
     "uptimeWeek": "99.88%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.88%",
-    "time": 237,
-    "timeDay": 227,
-    "timeWeek": 237,
-    "timeMonth": 237,
-    "timeYear": 237,
+    "time": 238,
+    "timeDay": 228,
+    "timeWeek": 238,
+    "timeMonth": 238,
+    "timeYear": 238,
     "dailyMinutesDown": {
       "2023-09-08": 2
     }
@@ -1107,11 +1107,11 @@
     "uptimeWeek": "99.88%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.88%",
-    "time": 237,
-    "timeDay": 227,
-    "timeWeek": 237,
-    "timeMonth": 237,
-    "timeYear": 237,
+    "time": 238,
+    "timeDay": 228,
+    "timeWeek": 238,
+    "timeMonth": 238,
+    "timeYear": 238,
     "dailyMinutesDown": {
       "2023-09-08": 2
     }
@@ -1241,7 +1241,7 @@
     "timeMonth": 288,
     "timeYear": 288,
     "dailyMinutesDown": {
-      "2023-09-08": 1314,
+      "2023-09-08": 1322,
       "2023-09-07": 636
     }
   },
