@@ -419,18 +419,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/stg.oceangliderscanada.ca.ico",
     "slug": "stg-home-page",
     "status": "down",
-    "uptime": "0.04%",
+    "uptime": "0.03%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.04%",
-    "uptimeMonth": "0.04%",
-    "uptimeYear": "0.04%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-08": 826,
+      "2023-09-08": 833,
       "2023-09-07": 641
     }
   },
@@ -451,7 +451,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-08": 826,
+      "2023-09-08": 833,
       "2023-09-07": 641
     }
   },
@@ -472,7 +472,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-08": 826,
+      "2023-09-08": 833,
       "2023-09-07": 640
     }
   },
@@ -493,7 +493,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-08": 826,
+      "2023-09-08": 833,
       "2023-09-07": 640
     }
   },
@@ -514,7 +514,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-08": 826,
+      "2023-09-08": 833,
       "2023-09-07": 639
     }
   },
@@ -529,11 +529,11 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.84%",
-    "time": 238,
+    "time": 237,
     "timeDay": 239,
-    "timeWeek": 238,
-    "timeMonth": 238,
-    "timeYear": 238,
+    "timeWeek": 237,
+    "timeMonth": 237,
+    "timeYear": 237,
     "dailyMinutesDown": {
       "2023-09-08": 2
     }
@@ -555,7 +555,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-08": 826,
+      "2023-09-08": 833,
       "2023-09-07": 639
     }
   },
@@ -576,7 +576,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-08": 826,
+      "2023-09-08": 833,
       "2023-09-07": 638
     }
   },
@@ -617,7 +617,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-08": 826,
+      "2023-09-08": 833,
       "2023-09-07": 637
     }
   },
@@ -874,7 +874,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-08": 826,
+      "2023-09-08": 833,
       "2023-09-07": 637
     }
   },
@@ -1069,11 +1069,11 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.84%",
-    "time": 238,
+    "time": 237,
     "timeDay": 239,
-    "timeWeek": 238,
-    "timeMonth": 238,
-    "timeYear": 238,
+    "timeWeek": 237,
+    "timeMonth": 237,
+    "timeYear": 237,
     "dailyMinutesDown": {
       "2023-09-08": 2
     }
@@ -1107,11 +1107,11 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.84%",
-    "time": 238,
+    "time": 237,
     "timeDay": 239,
-    "timeWeek": 238,
-    "timeMonth": 238,
-    "timeYear": 238,
+    "timeWeek": 237,
+    "timeMonth": 237,
+    "timeYear": 237,
     "dailyMinutesDown": {
       "2023-09-08": 2
     }
@@ -1241,7 +1241,7 @@
     "timeMonth": 288,
     "timeYear": 288,
     "dailyMinutesDown": {
-      "2023-09-08": 826,
+      "2023-09-08": 834,
       "2023-09-07": 636
     }
   },
