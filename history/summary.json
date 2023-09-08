@@ -430,7 +430,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-08": 1121,
+      "2023-09-08": 1129,
       "2023-09-07": 641
     }
   },
@@ -451,7 +451,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-08": 1121,
+      "2023-09-08": 1129,
       "2023-09-07": 641
     }
   },
@@ -472,7 +472,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-08": 1121,
+      "2023-09-08": 1129,
       "2023-09-07": 640
     }
   },
@@ -493,7 +493,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-08": 1121,
+      "2023-09-08": 1129,
       "2023-09-07": 640
     }
   },
@@ -514,7 +514,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-08": 1121,
+      "2023-09-08": 1129,
       "2023-09-07": 639
     }
   },
@@ -530,7 +530,7 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
     "time": 240,
-    "timeDay": 234,
+    "timeDay": 233,
     "timeWeek": 240,
     "timeMonth": 240,
     "timeYear": 240,
@@ -555,7 +555,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-08": 1121,
+      "2023-09-08": 1129,
       "2023-09-07": 639
     }
   },
@@ -576,7 +576,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-08": 1121,
+      "2023-09-08": 1129,
       "2023-09-07": 638
     }
   },
@@ -586,16 +586,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/stg.ceotr.ca.ico",
     "slug": "sensor-tracker-login",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.96%",
     "uptimeDay": "99.96%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 144,
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 145,
     "timeDay": 141,
-    "timeWeek": 144,
-    "timeMonth": 144,
-    "timeYear": 144,
+    "timeWeek": 145,
+    "timeMonth": 145,
+    "timeYear": 145,
     "dailyMinutesDown": {
       "2023-09-08": 1
     }
@@ -617,7 +617,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-08": 1121,
+      "2023-09-08": 1129,
       "2023-09-07": 637
     }
   },
@@ -843,16 +843,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ceotr.ca.ico",
     "slug": "sensor-tracker-login",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.96%",
     "uptimeDay": "99.96%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 144,
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 145,
     "timeDay": 141,
-    "timeWeek": 144,
-    "timeMonth": 144,
-    "timeYear": 144,
+    "timeWeek": 145,
+    "timeMonth": 145,
+    "timeYear": 145,
     "dailyMinutesDown": {
       "2023-09-08": 1
     }
@@ -874,7 +874,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-08": 1121,
+      "2023-09-08": 1129,
       "2023-09-07": 637
     }
   },
@@ -1070,7 +1070,7 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
     "time": 240,
-    "timeDay": 234,
+    "timeDay": 233,
     "timeWeek": 240,
     "timeMonth": 240,
     "timeYear": 240,
@@ -1108,7 +1108,7 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
     "time": 240,
-    "timeDay": 234,
+    "timeDay": 233,
     "timeWeek": 240,
     "timeMonth": 240,
     "timeYear": 240,
@@ -1241,7 +1241,7 @@
     "timeMonth": 288,
     "timeYear": 288,
     "dailyMinutesDown": {
-      "2023-09-08": 1122,
+      "2023-09-08": 1129,
       "2023-09-07": 636
     }
   },
