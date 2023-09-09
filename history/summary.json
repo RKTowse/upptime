@@ -419,18 +419,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/stg.oceangliderscanada.ca.ico",
     "slug": "stg-home-page",
     "status": "down",
-    "uptime": "0.02%",
+    "uptime": "0.01%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-09": 1264,
+      "2023-09-09": 1275,
       "2023-09-08": 1440,
       "2023-09-07": 641
     }
@@ -452,7 +452,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-09": 1264,
+      "2023-09-09": 1275,
       "2023-09-08": 1440,
       "2023-09-07": 641
     }
@@ -474,7 +474,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-09": 1264,
+      "2023-09-09": 1275,
       "2023-09-08": 1440,
       "2023-09-07": 640
     }
@@ -496,7 +496,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-09": 1264,
+      "2023-09-09": 1275,
       "2023-09-08": 1440,
       "2023-09-07": 640
     }
@@ -518,7 +518,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-09": 1264,
+      "2023-09-09": 1275,
       "2023-09-08": 1440,
       "2023-09-07": 639
     }
@@ -549,18 +549,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/stg.ceotr.ca.ico",
     "slug": "stg-bedford-basin-time-series",
     "status": "down",
-    "uptime": "0.02%",
+    "uptime": "0.01%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-09": 1264,
+      "2023-09-09": 1276,
       "2023-09-08": 1440,
       "2023-09-07": 639
     }
@@ -582,7 +582,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-09": 1264,
+      "2023-09-09": 1276,
       "2023-09-08": 1440,
       "2023-09-07": 638
     }
@@ -594,7 +594,7 @@
     "slug": "sensor-tracker-login",
     "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "99.02%",
+    "uptimeDay": "99.01%",
     "uptimeWeek": "99.58%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "99.58%",
@@ -613,18 +613,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/stg.nfsi.ceotr.ca.ico",
     "slug": "stg-sensor-tracker-home-page-loads",
     "status": "down",
-    "uptime": "0.01%",
+    "uptime": "0.02%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-09": 1264,
+      "2023-09-09": 1276,
       "2023-09-08": 1440,
       "2023-09-07": 637
     }
@@ -852,7 +852,7 @@
     "slug": "sensor-tracker-login",
     "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "99.02%",
+    "uptimeDay": "99.01%",
     "uptimeWeek": "99.58%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "99.58%",
@@ -882,7 +882,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-09": 1264,
+      "2023-09-09": 1276,
       "2023-09-08": 1440,
       "2023-09-07": 637
     }
@@ -1250,7 +1250,7 @@
     "timeMonth": 288,
     "timeYear": 288,
     "dailyMinutesDown": {
-      "2023-09-09": 1264,
+      "2023-09-09": 1276,
       "2023-09-08": 1440,
       "2023-09-07": 636
     }
