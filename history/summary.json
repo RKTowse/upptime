@@ -430,7 +430,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-08": 1437,
+      "2023-09-09": 5,
+      "2023-09-08": 1440,
       "2023-09-07": 641
     }
   },
@@ -451,7 +452,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-08": 1437,
+      "2023-09-09": 5,
+      "2023-09-08": 1440,
       "2023-09-07": 641
     }
   },
@@ -472,7 +474,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-08": 1437,
+      "2023-09-09": 5,
+      "2023-09-08": 1440,
       "2023-09-07": 640
     }
   },
@@ -493,7 +496,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-08": 1437,
+      "2023-09-09": 5,
+      "2023-09-08": 1440,
       "2023-09-07": 640
     }
   },
@@ -514,7 +518,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-08": 1437,
+      "2023-09-09": 5,
+      "2023-09-08": 1440,
       "2023-09-07": 639
     }
   },
@@ -529,13 +534,13 @@
     "uptimeWeek": "99.89%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
-    "time": 238,
-    "timeDay": 231,
-    "timeWeek": 238,
-    "timeMonth": 238,
-    "timeYear": 238,
+    "time": 239,
+    "timeDay": 233,
+    "timeWeek": 239,
+    "timeMonth": 239,
+    "timeYear": 239,
     "dailyMinutesDown": {
-      "2023-09-08": 2
+      "2023-09-09": 2
     }
   },
   {
@@ -555,7 +560,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-08": 1437,
+      "2023-09-09": 5,
+      "2023-09-08": 1440,
       "2023-09-07": 639
     }
   },
@@ -576,7 +582,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-08": 1437,
+      "2023-09-09": 5,
+      "2023-09-08": 1440,
       "2023-09-07": 638
     }
   },
@@ -587,17 +594,17 @@
     "slug": "sensor-tracker-login",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.95%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.97%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 143,
+    "time": 144,
     "timeDay": 140,
-    "timeWeek": 143,
-    "timeMonth": 143,
-    "timeYear": 143,
+    "timeWeek": 144,
+    "timeMonth": 144,
+    "timeYear": 144,
     "dailyMinutesDown": {
-      "2023-09-08": 1
+      "2023-09-09": 1
     }
   },
   {
@@ -617,7 +624,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-08": 1437,
+      "2023-09-09": 5,
+      "2023-09-08": 1440,
       "2023-09-07": 637
     }
   },
@@ -844,17 +852,17 @@
     "slug": "sensor-tracker-login",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.95%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.97%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 143,
+    "time": 144,
     "timeDay": 140,
-    "timeWeek": 143,
-    "timeMonth": 143,
-    "timeYear": 143,
+    "timeWeek": 144,
+    "timeMonth": 144,
+    "timeYear": 144,
     "dailyMinutesDown": {
-      "2023-09-08": 1
+      "2023-09-09": 1
     }
   },
   {
@@ -874,7 +882,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-08": 1437,
+      "2023-09-09": 5,
+      "2023-09-08": 1440,
       "2023-09-07": 637
     }
   },
@@ -1069,13 +1078,13 @@
     "uptimeWeek": "99.89%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
-    "time": 238,
-    "timeDay": 231,
-    "timeWeek": 238,
-    "timeMonth": 238,
-    "timeYear": 238,
+    "time": 239,
+    "timeDay": 233,
+    "timeWeek": 239,
+    "timeMonth": 239,
+    "timeYear": 239,
     "dailyMinutesDown": {
-      "2023-09-08": 2
+      "2023-09-09": 2
     }
   },
   {
@@ -1107,13 +1116,13 @@
     "uptimeWeek": "99.89%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
-    "time": 238,
-    "timeDay": 231,
-    "timeWeek": 238,
-    "timeMonth": 238,
-    "timeYear": 238,
+    "time": 239,
+    "timeDay": 233,
+    "timeWeek": 239,
+    "timeMonth": 239,
+    "timeYear": 239,
     "dailyMinutesDown": {
-      "2023-09-08": 2
+      "2023-09-09": 2
     }
   },
   {
@@ -1241,7 +1250,8 @@
     "timeMonth": 288,
     "timeYear": 288,
     "dailyMinutesDown": {
-      "2023-09-08": 1437,
+      "2023-09-09": 5,
+      "2023-09-08": 1440,
       "2023-09-07": 636
     }
   },
