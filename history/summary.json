@@ -430,7 +430,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-09": 60,
+      "2023-09-09": 66,
       "2023-09-08": 1440,
       "2023-09-07": 641
     }
@@ -452,7 +452,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-09": 60,
+      "2023-09-09": 66,
       "2023-09-08": 1440,
       "2023-09-07": 641
     }
@@ -474,7 +474,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-09": 60,
+      "2023-09-09": 66,
       "2023-09-08": 1440,
       "2023-09-07": 640
     }
@@ -496,7 +496,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-09": 60,
+      "2023-09-09": 66,
       "2023-09-08": 1440,
       "2023-09-07": 640
     }
@@ -518,7 +518,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-09": 60,
+      "2023-09-09": 66,
       "2023-09-08": 1440,
       "2023-09-07": 639
     }
@@ -529,17 +529,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/stg.ceotr.ca.ico",
     "slug": "ceotr-home-page-loads",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.90%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 239,
     "timeDay": 233,
     "timeWeek": 239,
     "timeMonth": 239,
     "timeYear": 239,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-09": 2
+    }
   },
   {
     "name": "stg Bedford Basin Time Series",
@@ -558,7 +560,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-09": 60,
+      "2023-09-09": 66,
       "2023-09-08": 1440,
       "2023-09-07": 639
     }
@@ -580,7 +582,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-09": 60,
+      "2023-09-09": 66,
       "2023-09-08": 1440,
       "2023-09-07": 638
     }
@@ -591,17 +593,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/stg.ceotr.ca.ico",
     "slug": "sensor-tracker-login",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 144,
-    "timeDay": 141,
+    "timeDay": 140,
     "timeWeek": 144,
     "timeMonth": 144,
     "timeYear": 144,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-09": 1
+    }
   },
   {
     "name": "STG Sensor Tracker Home Page loads",
@@ -620,7 +624,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-09": 60,
+      "2023-09-09": 66,
       "2023-09-08": 1440,
       "2023-09-07": 637
     }
@@ -847,17 +851,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ceotr.ca.ico",
     "slug": "sensor-tracker-login",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 144,
-    "timeDay": 141,
+    "timeDay": 140,
     "timeWeek": 144,
     "timeMonth": 144,
     "timeYear": 144,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-09": 1
+    }
   },
   {
     "name": "CEOTR Maintenance",
@@ -876,7 +882,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-09": 60,
+      "2023-09-09": 66,
       "2023-09-08": 1440,
       "2023-09-07": 637
     }
@@ -1067,17 +1073,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cproof.ceotr.ca.ico",
     "slug": "ceotr-home-page-loads",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.90%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 239,
     "timeDay": 233,
     "timeWeek": 239,
     "timeMonth": 239,
     "timeYear": 239,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-09": 2
+    }
   },
   {
     "name": "HTTPS Sensor tracker login Page loads",
@@ -1103,17 +1111,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dfocogg.ceotr.ca.ico",
     "slug": "ceotr-home-page-loads",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.90%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 239,
     "timeDay": 233,
     "timeWeek": 239,
     "timeMonth": 239,
     "timeYear": 239,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-09": 2
+    }
   },
   {
     "name": "HTTPS Sensor tracker login Page loads",
@@ -1240,7 +1250,7 @@
     "timeMonth": 288,
     "timeYear": 288,
     "dailyMinutesDown": {
-      "2023-09-09": 60,
+      "2023-09-09": 66,
       "2023-09-08": 1440,
       "2023-09-07": 636
     }
