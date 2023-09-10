@@ -430,7 +430,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-10": 1138,
+      "2023-09-10": 1145,
       "2023-09-09": 1440,
       "2023-09-08": 1440,
       "2023-09-07": 641
@@ -453,7 +453,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-10": 1138,
+      "2023-09-10": 1145,
       "2023-09-09": 1440,
       "2023-09-08": 1440,
       "2023-09-07": 641
@@ -476,7 +476,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-10": 1138,
+      "2023-09-10": 1145,
       "2023-09-09": 1440,
       "2023-09-08": 1440,
       "2023-09-07": 640
@@ -499,7 +499,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-10": 1138,
+      "2023-09-10": 1145,
       "2023-09-09": 1440,
       "2023-09-08": 1440,
       "2023-09-07": 640
@@ -522,7 +522,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-10": 1138,
+      "2023-09-10": 1145,
       "2023-09-09": 1440,
       "2023-09-08": 1440,
       "2023-09-07": 639
@@ -539,11 +539,11 @@
     "uptimeWeek": "99.62%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.62%",
-    "time": 245,
-    "timeDay": 261,
-    "timeWeek": 245,
-    "timeMonth": 245,
-    "timeYear": 245,
+    "time": 244,
+    "timeDay": 260,
+    "timeWeek": 244,
+    "timeMonth": 244,
+    "timeYear": 244,
     "dailyMinutesDown": {
       "2023-09-10": 2,
       "2023-09-09": 15
@@ -566,7 +566,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-10": 1138,
+      "2023-09-10": 1145,
       "2023-09-09": 1440,
       "2023-09-08": 1440,
       "2023-09-07": 639
@@ -589,7 +589,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-10": 1138,
+      "2023-09-10": 1145,
       "2023-09-09": 1440,
       "2023-09-08": 1440,
       "2023-09-07": 638
@@ -601,13 +601,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/stg.ceotr.ca.ico",
     "slug": "sensor-tracker-login",
     "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.69%",
+    "uptime": "99.68%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
     "time": 146,
-    "timeDay": 154,
+    "timeDay": 153,
     "timeWeek": 146,
     "timeMonth": 146,
     "timeYear": 146,
@@ -633,7 +633,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-10": 1138,
+      "2023-09-10": 1145,
       "2023-09-09": 1440,
       "2023-09-08": 1440,
       "2023-09-07": 637
@@ -861,13 +861,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ceotr.ca.ico",
     "slug": "sensor-tracker-login",
     "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.69%",
+    "uptime": "99.68%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
     "time": 146,
-    "timeDay": 154,
+    "timeDay": 153,
     "timeWeek": 146,
     "timeMonth": 146,
     "timeYear": 146,
@@ -893,7 +893,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-10": 1139,
+      "2023-09-10": 1145,
       "2023-09-09": 1440,
       "2023-09-08": 1440,
       "2023-09-07": 637
@@ -1090,11 +1090,11 @@
     "uptimeWeek": "99.62%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.62%",
-    "time": 245,
-    "timeDay": 261,
-    "timeWeek": 245,
-    "timeMonth": 245,
-    "timeYear": 245,
+    "time": 244,
+    "timeDay": 260,
+    "timeWeek": 244,
+    "timeMonth": 244,
+    "timeYear": 244,
     "dailyMinutesDown": {
       "2023-09-10": 2,
       "2023-09-09": 15
@@ -1129,11 +1129,11 @@
     "uptimeWeek": "99.62%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.62%",
-    "time": 245,
-    "timeDay": 261,
-    "timeWeek": 245,
-    "timeMonth": 245,
-    "timeYear": 245,
+    "time": 244,
+    "timeDay": 260,
+    "timeWeek": 244,
+    "timeMonth": 244,
+    "timeYear": 244,
     "dailyMinutesDown": {
       "2023-09-10": 2,
       "2023-09-09": 15
@@ -1264,7 +1264,7 @@
     "timeMonth": 288,
     "timeYear": 288,
     "dailyMinutesDown": {
-      "2023-09-10": 1139,
+      "2023-09-10": 1146,
       "2023-09-09": 1440,
       "2023-09-08": 1440,
       "2023-09-07": 636
