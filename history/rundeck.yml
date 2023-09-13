@@ -1,7 +1,7 @@
 url: https://rundeck.ceotr.ca/menu/home
-status: up
-code: 200
-responseTime: 356
-lastUpdated: 2023-09-13T14:13:55.880Z
+status: down
+code: 502
+responseTime: 405
+lastUpdated: 2023-09-13T18:59:53.273Z
 startTime: 2023-09-07T13:18:01.285Z
 generator: Upptime <https://github.com/upptime/upptime>
