@@ -1,7 +1,7 @@
-url: https://stg.ceotr.ca CEOTR Home
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-09-15T20:43:58.975Z
+url: https://cproof.ceotr.ca
+status: up
+code: 200
+responseTime: 295
+lastUpdated: 2023-09-15T20:46:13.698Z
 startTime: 2023-09-07T13:20:54.387Z
 generator: Upptime <https://github.com/upptime/upptime>
