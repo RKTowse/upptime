@@ -1,7 +1,7 @@
 url: https://ceotr.ocean.dal.ca/erddap
-status: up
-code: 200
-responseTime: 111
-lastUpdated: 2023-09-20T23:10:10.620Z
+status: down
+code: 502
+responseTime: 41
+lastUpdated: 2023-09-22T15:40:09.673Z
 startTime: 2023-09-07T13:23:26.699Z
 generator: Upptime <https://github.com/upptime/upptime>
