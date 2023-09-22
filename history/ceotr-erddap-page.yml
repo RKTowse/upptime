@@ -1,7 +1,7 @@
 url: https://prod.ceotr.ca/erddap
-status: up
-code: 200
-responseTime: 110
-lastUpdated: 2023-09-20T23:10:04.187Z
+status: down
+code: 502
+responseTime: 44
+lastUpdated: 2023-09-22T15:40:04.684Z
 startTime: 2023-09-07T13:23:16.871Z
 generator: Upptime <https://github.com/upptime/upptime>
