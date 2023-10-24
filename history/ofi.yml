@@ -1,7 +1,7 @@
 url: https://www.ofi.ca
-status: up
-code: 200
-responseTime: 119
-lastUpdated: 2023-10-22T15:52:36.355Z
+status: down
+code: 406
+responseTime: 79
+lastUpdated: 2023-10-24T19:56:26.130Z
 startTime: 2023-09-07T13:18:00.152Z
 generator: Upptime <https://github.com/upptime/upptime>
